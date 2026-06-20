@@ -34,9 +34,3 @@ cursor-theme-zed/
 ```
 
 Submit this repository to the Zed extensions registry when you are ready.
-
-## Design Notes
-
-The light theme keeps the original Cursor-inspired tokens from `DESIGN-cursor.md`: `#f7f7f4` canvas, `#26251e` ink, and `#f54e00` as the primary accent.
-
-The dark theme keeps the same editorial warmth by inverting onto a soft ink canvas rather than a pure black IDE surface. Orange stays the primary accent, with the timeline palette retained for reads, edits, conflicts, and collaboration colors.
