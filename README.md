@@ -21,16 +21,3 @@ A warm editorial theme for Zed inspired by Cursor's marketing design language: c
 3. Select `Install Dev Extension`.
 4. Choose this repository folder.
 5. Pick `cursor-theme-zed Light` or `cursor-theme-zed Dark` from Zed's theme selector.
-
-## Publish
-
-This repository is structured as a Zed extension:
-
-```text
-cursor-theme-zed/
-  extension.toml
-  themes/
-    cursor-theme-zed.json
-```
-
-Submit this repository to the Zed extensions registry when you are ready.
