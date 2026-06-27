@@ -1,11 +1,11 @@
 # cursor-theme-zed
 
-[![Zed Theme](https://img.shields.io/badge/Zed-theme-f54e00?style=flat-square)](https://zed.dev)
+[![Zed Theme](https://img.shields.io/badge/Zed-theme-5b5cf6?style=flat-square)](https://zed.dev)
 [![Themes](https://img.shields.io/badge/themes-light%20%2B%20dark-26251e?style=flat-square)](./themes/cursor-theme-zed.json)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
 [![JSON Schema](https://img.shields.io/badge/schema-v0.2.0-9fbbe0?style=flat-square)](https://zed.dev/schema/themes/v0.2.0.json)
 
-A warm editorial theme for Zed inspired by Cursor's marketing design language: cream canvas, near-black ink, restrained orange accents, hairline depth, and soft AI timeline colors. It includes matching light and dark variants.
+A warm editorial theme for Zed inspired by Cursor's marketing design language: cream canvas, near-black ink, restrained blue-violet accents, hairline depth, and soft AI timeline colors. It includes matching light and dark variants.
 
 **Tags:** `zed`, `zed-theme`, `theme`, `dark-theme`, `light-theme`, `cursor`, `editor-theme`, `developer-tools`
 

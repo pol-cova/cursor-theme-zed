@@ -3,5 +3,5 @@ name = "cursor-theme-zed"
 version = "0.0.1"
 schema_version = 1
 authors = ["Paul Contreras"]
-description = "A warm editorial Zed theme inspired by Cursor's cream canvas, orange accent, and AI timeline palette."
+description = "A warm editorial Zed theme inspired by Cursor's cream canvas, blue-violet accent, and AI timeline palette."
 repository = "https://github.com/pol-cova/cursor-theme-zed"
